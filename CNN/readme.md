@@ -1,23 +1,30 @@
 # Convolutional Neural Networks (CNN) Projects
 
 ## Overview
-Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This collection offers implementations of CNNs for a variety of image-related tasks, demonstrating the versatility and power of deep learning in computer vision. From digit classification to real-time object detection, this repository provides well-documented examples to help you understand and apply CNNs in various domains.
+Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This collection offers implementations of CNNs for a variety of image-related tasks, demonstrating the versatility and power of deep learning in computer vision. From emotion recognition to digit classification and real-time object detection, this repository provides well-documented examples to help you understand and apply CNNs in various domains.
 
 ## CNN Implementations
 
-### 1. MNIST Digit Classification
+### 1. Real-Time Emotion Recognition
+- **File:** `real_time_emotion_recognition.py`
+- **Description:** This project implements a real-time emotion recognition system using a CNN trained on the FER-2013 dataset. The model classifies facial expressions captured from a webcam into seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral. The project includes model training, real-time detection, and emotion visualization.
+
+### 2. MNIST Digit Classification
 - **File:** `cnn_mnist_classification.ipynb`
 - **Description:** This notebook guides you through building a CNN to classify handwritten digits using the MNIST dataset. It covers all aspects from data preprocessing to model training and evaluation, making it a great starting point for beginners.
 
-### 2. Fashion MNIST Image Classification
+### 3. Fashion MNIST Image Classification
 - **File:** `cnn_fashion_mnist_classification.ipynb`
 - **Description:** This notebook extends CNN usage to more complex image classification tasks with the Fashion MNIST dataset. It provides a comprehensive look at preprocessing, model architecture, and performance evaluation.
 
-### 3. Real-Time Object Detection
+### 4. Real-Time Object Detection
 - **File:** `object_detection_ssd_mobilenet.py`
 - **Description:** This script implements real-time object detection using the SSD MobileNet V2 architecture. It includes loading pre-trained models, processing input images, and visualizing detected objects with bounding boxes.
 
 ## Repository Structure
+
+- **Real-Time Emotion Recognition**
+  - *real_time_emotion_recognition.py*: Implementation of a real-time emotion recognition system using a CNN trained on the FER-2013 dataset.
 
 - **MNIST Digit Classification**
   - *cnn_mnist_classification.ipynb*: A step-by-step guide to implementing a CNN for digit classification using the MNIST dataset.
@@ -58,6 +65,7 @@ Each notebook and script includes detailed steps for data preprocessing, model d
 2. Launch the desired notebook or script:
     ```bash
     jupyter notebook path/to/notebook.ipynb
+    python real_time_emotion_recognition.py
     python object_detection_ssd_mobilenet.py
     ```
 
