@@ -10,6 +10,7 @@ Explore a diverse set of models, from Convolutional Neural Networks (CNNs) for i
    - **Image Classification**: Identifying objects in images.
    - **Object Detection**: Locating objects within images.
    - **Image Segmentation**: Segmenting objects in an image at a pixel level.
+   - **Real-Time Emotion Recognition**: Detecting the emotions using real-time face expression.
 
 ### 2. **Recurrent Neural Networks (RNN)**
    - **Sentiment Analysis**: Classifying text sentiment.
