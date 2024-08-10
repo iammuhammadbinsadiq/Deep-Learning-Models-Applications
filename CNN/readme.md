@@ -6,7 +6,7 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
 ## CNN Implementations
 
 ### 1. Real-Time Emotion Recognition
-- **File:** `real_time_emotion_recognition.py`
+- **File:** `real_time_emotion_recognition.ipynb`
 - **Description:** This project implements a real-time emotion recognition system using a CNN trained on the FER-2013 dataset. The model classifies facial expressions captured from a webcam into seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral. The project includes model training, real-time detection, and emotion visualization.
 
 ### 2. MNIST Digit Classification
