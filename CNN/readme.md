@@ -18,8 +18,8 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
 - **Description:** This notebook extends CNN usage to more complex image classification tasks with the Fashion MNIST dataset. It provides a comprehensive look at preprocessing, model architecture, and performance evaluation.
 
 ### 4. Real-Time Object Detection
-- **File:** `object_detection_ssd_mobilenet.py`
-- **Description:** This script implements real-time object detection using the SSD MobileNet V2 architecture. It includes loading pre-trained models, processing input images, and visualizing detected objects with bounding boxes.
+- **File:** `cnn_object_detection.ipynb`
+- **Description:** This project uses YOLOv4 and OpenCV to perform real-time object detection, enabling fast and accurate identification of objects in live video feeds.
 
 ## Repository Structure
 
