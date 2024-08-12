@@ -24,7 +24,7 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
 ## Repository Structure
 
 - **Real-Time Emotion Recognition**
-  - *real_time_emotion_recognition.py*: Implementation of a real-time emotion recognition system using a CNN trained on the FER-2013 dataset.
+  - *real_time_emotion_recognition.ipynb*: Implementation of a real-time emotion recognition system using a CNN trained on the FER-2013 dataset.
 
 - **MNIST Digit Classification**
   - *cnn_mnist_classification.ipynb*: A step-by-step guide to implementing a CNN for digit classification using the MNIST dataset.
@@ -33,7 +33,7 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
   - *cnn_fashion_mnist_classification.ipynb*: A detailed implementation of CNN for classifying images from the Fashion MNIST dataset.
 
 - **Real-Time Object Detection**
-  - *object_detection_ssd_mobilenet.py*: Implementation of a real-time object detection system using SSD MobileNet V2, complete with image processing and detection visualization.
+  - *object_detection_ssd_mobilenet.ipynb*: Implementation of a real-time object detection system using SSD MobileNet V2, complete with image processing and detection visualization.
 
 ## Getting Started
 
