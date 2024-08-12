@@ -19,7 +19,7 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
 
 ### 4. Real-Time Object Detection
 - **File:** `cnn_real_time_object_detection.ipynb`
-- **Description:** This project uses YOLOv4 and OpenCV to perform real-time object detection, enabling fast and accurate identification of objects in live video feeds.
+- **Description:** This notebook implements real-time object detection using YOLOv4 with OpenCV. It covers model integration, video stream processing, and object classification, providing a hands-on approach to deploying deep learning models for live detection tasks.
 
 ## Repository Structure
 
@@ -33,7 +33,7 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
   - *cnn_fashion_mnist_classification.ipynb*: A detailed implementation of CNN for classifying images from the Fashion MNIST dataset.
 
 - **Real-Time Object Detection**
-  - *object_detection_ssd_mobilenet.ipynb*: Implementation of a real-time object detection system using SSD MobileNet V2, complete with image processing and detection visualization.
+  - *cnn_real_time_object_detection.ipynb*: Implementation of a real-time object detection system using YOLOv4 and OpenCV, complete with video stream processing and detection visualization.
 
 ## Getting Started
 
