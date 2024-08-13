@@ -26,8 +26,8 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
 - **Real-Time Emotion Recognition**
   - *real_time_emotion_recognition.ipynb*: Implementation of a real-time emotion recognition system using a CNN trained on the FER-2013 dataset.
 
-- **MNIST Digit Classification**
-  - *cnn_mnist_classification.ipynb*: A step-by-step guide to implementing a CNN for digit classification using the MNIST dataset.
+- **Image Classification**
+  - *cnn_image_classification.ipynb*: A step-by-step guide to implementing a CNN for Image classification using the CIFAR-10 dataset.
   
 - **Fashion MNIST Image Classification**
   - *cnn_fashion_mnist_classification.ipynb*: A detailed implementation of CNN for classifying images from the Fashion MNIST dataset.
