@@ -9,13 +9,13 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
 - **File:** `real_time_emotion_recognition.ipynb`
 - **Description:** This project implements a real-time emotion recognition system using a CNN trained on the FER-2013 dataset. The model classifies facial expressions captured from a webcam into seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral. The project includes model training, real-time detection, and emotion visualization.
 
-### 2. MNIST Digit Classification
-- **File:** `cnn_mnist_classification.ipynb`
-- **Description:** This notebook guides you through building a CNN to classify handwritten digits using the MNIST dataset. It covers all aspects from data preprocessing to model training and evaluation, making it a great starting point for beginners.
+### 2. Image Classification
+- **File:** `cnn_image_classification.ipynb`
+- **Description:** This project builds an image classification system using Convolutional Neural Networks (CNNs) to accurately identify objects in images, demonstrating the power of CNNs in computer vision tasks with the CIFAR-10 dataset.
 
 ### 3. Fashion MNIST Image Classification
 - **File:** `cnn_fashion_mnist_classification.ipynb`
-- **Description:** This notebook extends CNN usage to more complex image classification tasks with the Fashion MNIST dataset. It provides a comprehensive look at preprocessing, model architecture, and performance evaluation.
+- **Description:** This notebook explores image classification using CNNs with the CIFAR-10 dataset, focusing on data preprocessing, model design, and performance evaluation to achieve high accuracy in identifying diverse objects.
 
 ### 4. Real-Time Object Detection
 - **File:** `cnn_real_time_object_detection.ipynb`
