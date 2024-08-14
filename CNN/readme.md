@@ -7,7 +7,7 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
 
 ### 1. Real-Time Emotion Recognition
 - **File:** `real_time_emotion_recognition.ipynb`
-- **Description:** This project implements a real-time emotion recognition system using a CNN trained on the FER-2013 dataset. The model classifies facial expressions captured from a webcam into seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral. The project includes model training, real-time detection, and emotion visualization.
+- **Description:** This notebook implements real-time emotion recognition using a CNN and live webcam feed. It covers loading a pre-trained model, processing video frames, and classifying facial expressions into seven emotions, with a focus on efficient, dynamic emotion detection and visualization.
 
 ### 2. Image Classification
 - **File:** `cnn_image_classification.ipynb`
