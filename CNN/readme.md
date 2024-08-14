@@ -15,7 +15,7 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
 
 ### 3. Fashion MNIST Image Classification
 - **File:** `cnn_fashion_mnist_classification.ipynb`
-- **Description:** This notebook explores image classification using CNNs with the CIFAR-10 dataset, focusing on data preprocessing, model design, and performance evaluation to achieve high accuracy in identifying diverse objects.
+- **Description:** This notebook delves into image classification using Convolutional Neural Networks (CNNs) with the Fashion MNIST dataset, emphasizing data preprocessing, model architecture, and performance evaluation to accurately classify different types of clothing items.
 
 ### 4. Real-Time Object Detection
 - **File:** `cnn_real_time_object_detection.ipynb`
