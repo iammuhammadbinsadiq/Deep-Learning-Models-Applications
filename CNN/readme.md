@@ -11,7 +11,7 @@ Welcome to the "Convolutional Neural Networks (CNN) Projects" repository! This c
 
 ### 2. Image Classification
 - **File:** `cnn_image_classification.ipynb`
-- **Description:** This project builds an image classification system using Convolutional Neural Networks (CNNs) to accurately identify objects in images, demonstrating the power of CNNs in computer vision tasks with the CIFAR-10 dataset.
+- **Description:** This notebook showcases image classification with CNNs using the CIFAR-10 dataset, covering data preprocessing, model design, training, and evaluation.
 
 ### 3. Fashion MNIST Image Classification
 - **File:** `cnn_fashion_mnist_classification.ipynb`
